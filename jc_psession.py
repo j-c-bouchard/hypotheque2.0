@@ -25,13 +25,8 @@ st.markdown(""" <style>
         text-align: center;
 
         border: 3px solid green;
-
-      
-
         }
-
- 
-
+        
 .font2 {
 
         font-size:40px ;
@@ -43,13 +38,7 @@ st.markdown(""" <style>
         text-align: center;
 
         border: 3px solid blue;
-
- 
-
         }
-
- 
-
 .font3 {
 
         font-size:40px ;
@@ -61,9 +50,6 @@ st.markdown(""" <style>
         text-align: center;
 
         border: 4px solid green;
-
- 
-
         }
 
 </style> """,
